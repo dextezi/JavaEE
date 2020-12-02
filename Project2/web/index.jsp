@@ -1,9 +1,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>eeeee</title>
+    <title>Lab2</title>
   </head>
   <body>
-  canto
+  Hello Servlet
   </body>
 </html>
